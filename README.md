@@ -1,2 +1,2 @@
-# Class-Acrivity
+# Class-Activity
 will delete later
